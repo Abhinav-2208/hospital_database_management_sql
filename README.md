@@ -19,6 +19,10 @@
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 This project is a Hospital Database Management System made with SQL to manage records in an organized way. It stores data like patients, doctors, appointments, prescriptions, bills, and lab reports in relational tables with primary and foreign keys, keeping the data accurate and consistent. A trigger is used to stop overlapping appointments, and a stored procedure generates monthly revenue reports by department. These features make the system practical and closer to real hospital data management.
 ---
+---
+<h2><a class="anchor" id="dataset"></a>Schema Design and Overview of Dataset</h2>
+
+---
 
 
 
